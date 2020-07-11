@@ -1,0 +1,8 @@
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\bin\Debug\netstandard2.0\SalaryPrediction.deps.json
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\bin\Debug\netstandard2.0\SalaryPrediction.dll
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\obj\Debug\netstandard2.0\SalaryPrediction.AssemblyInfoInputs.cache
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\obj\Debug\netstandard2.0\SalaryPrediction.AssemblyInfo.cs
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\bin\Debug\netstandard2.0\SalaryPrediction.pdb
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\obj\Debug\netstandard2.0\SalaryPrediction.csprojAssemblyReference.cache
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\obj\Debug\netstandard2.0\SalaryPrediction.dll
+C:\Users\anoua\source\repos\SalaryPrediction\SalaryPrediction\obj\Debug\netstandard2.0\SalaryPrediction.pdb
